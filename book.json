@@ -39,7 +39,7 @@
 			"size" : 2
 		},
 		"page-footer-ex": {
-			"copyright": "2021 <a href=\"https://github.com/luamoris\" blank=\"_target\">Luamoris</a>",
+			"copyright": "2021 | <a href=\"https://github.com/luamoris\" blank=\"_target\">Luamoris</a>",
 			"markdown": false,
 			"update_label": "Updated：",
 			"update_format": "MM-DD HH:mm"

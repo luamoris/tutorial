@@ -17,7 +17,7 @@
 
 * [`Themes`](#Themes)
 * [`Language support`](#language-support)
-* [`Author`](#author)
+* [`Creators`](#creators)
 
 
 <p align="center">
