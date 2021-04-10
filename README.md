@@ -23,7 +23,7 @@
 <p align="center">
 	<h6 align="center">Img. Sample article.</з>
 	<p></p>
-	<img src="https://cutt.ly/nc98OwB" alt="Example.">
+	<img src="https://raw.githubusercontent.com/luamoris/tutorial/master/images/example.png" alt="Example.">
 </p>
 
 
@@ -54,5 +54,5 @@
 
 [box.svg]: https://cutt.ly/Jc9BZ0O
 [icon.ico]: https://cutt.ly/ec9B6Xt
-[example.png]: https://cutt.ly/nc98OwB
+[example.png]: https://raw.githubusercontent.com/luamoris/tutorial/master/images/example.png
 [iosif]: https://cutt.ly/mc9ZDPN
