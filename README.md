@@ -23,7 +23,7 @@
 <p align="center">
 	<h6 align="center">Img. Sample article.</з>
 	<p></p>
-	<img src="./images/example.png" alt="Example.">
+	<img src="https://cutt.ly/Cc98iww" alt="Example.">
 </p>
 
 
@@ -54,5 +54,5 @@
 
 [box.svg]: https://cutt.ly/Jc9BZ0O
 [icon.ico]: https://cutt.ly/ec9B6Xt
-[example.png]: https://cutt.ly/zc93TFw
+[example.png]: https://cutt.ly/Cc98iww
 [iosif]: https://cutt.ly/mc9ZDPN
