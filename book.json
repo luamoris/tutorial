@@ -1,0 +1,56 @@
+{
+	"plugins": [
+		"-lunr",
+		"-search",
+		"-sharing",
+		"ga",
+		"code",
+		"github",
+		"search-pro",
+		"insert-logo",
+		"intopic-toc",
+		"fontsettings",
+		"page-footer-ex",
+		"language-picker",
+		"styles-sass-fix",
+		"codeblock-label",
+		"collapsible-menu",
+		"back-to-top-button"
+	],
+	"pluginsConfig": {
+		"ga": {
+			"token": "UA-2418325-1"
+		},
+		"code": {
+			"copyButtons": true
+		},
+		"github": {
+			"url": "https://github.com/luamoris/tutorial"
+		},
+		"insert-logo": {
+			"url": "./images/box.svg"
+		},
+		"language-picker": {
+			"grid-columns": 3
+		},
+		"fontsettings" : { 
+			"theme" : "night",
+			"family" : "sans",
+			"size" : 2
+		},
+		"page-footer-ex": {
+			"copyright": "2021 <a href=\"https://github.com/luamoris\" blank=\"_target\">Luamoris</a>",
+			"markdown": false,
+			"update_label": "Updated：",
+			"update_format": "YYYY-MM-DD HH:mm:ss"
+		},
+		"intopic-toc": {
+			"selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6",
+			"mode": "nested",
+			"maxDepth": 2,
+			"isCollapsed": true,
+			"isScrollspyActive": true,
+			"visible": true
+		}
+	}
+}
