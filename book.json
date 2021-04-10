@@ -28,7 +28,7 @@
 			"url": "https://github.com/luamoris/tutorial"
 		},
 		"insert-logo": {
-			"url": "./images/box.svg"
+			"url": "https://cutt.ly/Jc9BZ0O"
 		},
 		"language-picker": {
 			"grid-columns": 3
@@ -42,7 +42,7 @@
 			"copyright": "2021 <a href=\"https://github.com/luamoris\" blank=\"_target\">Luamoris</a>",
 			"markdown": false,
 			"update_label": "Updated：",
-			"update_format": "YYYY-MM-DD HH:mm:ss"
+			"update_format": "MM-DD HH:mm"
 		},
 		"intopic-toc": {
 			"selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6",

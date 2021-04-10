@@ -1,10 +1,10 @@
 # WEBLAND TUTORIAL
 
 <p align="center">
-	<img width="50" src="./images/box.svg" alt="Box.">
+	<img width="50" src="https://cutt.ly/Jc9BZ0O" alt="Box.">
 </p>
 
-> Online synopsis of useful information related to IT technologies. \
+> Online synopsis of useful information related to IT technologies.
 >  &#128215; Help is appreciated.
 
 ### Links
@@ -50,3 +50,9 @@
 		<img width="50" src="https://cutt.ly/mc9ZDPN" alt="Iosif Luamoris"/>
 	</a>
 </p>
+
+
+[box.svg]: https://cutt.ly/Jc9BZ0O
+[icon.ico]: https://cutt.ly/ec9B6Xt
+[example.png]: https://cutt.ly/tc9BHsf
+[iosif]: https://cutt.ly/mc9ZDPN
