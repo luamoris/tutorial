@@ -54,5 +54,5 @@
 
 [box.svg]: https://cutt.ly/Jc9BZ0O
 [icon.ico]: https://cutt.ly/ec9B6Xt
-[example.png]: https://cutt.ly/tc9BHsf
+[example.png]: https://cutt.ly/zc93TFw
 [iosif]: https://cutt.ly/mc9ZDPN
