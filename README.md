@@ -36,11 +36,12 @@
 
 ### Themes
 
-> * __`-`__
+> * __`JavaScript`__ [__`ru`__](./ru/javascript/README.md)
+> * __`React JS`__ [__`ru`__](./ru/react.js/README.md)
 
 
 ### Language support
-> * __`-`__
+> * __`Russian`__ [__`ru`__](./ru/README.md)
 
 
 ### Creators
