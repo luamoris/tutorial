@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "build": "gitbook install && gulp",
-    "watch": "gitbook serve",
+    "watch": "gitbook install && gitbook serve",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d _book"
   },
@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-block-code": "0.0.1",
     "gitbook-plugin-code": "^0.1.0",
     "gitbook-plugin-codeblock-label": "^1.0.1",
     "gitbook-plugin-collapsible-menu": "^1.0.3",
@@ -40,6 +41,7 @@
     "gitbook-plugin-language-picker": "^0.1.0",
     "gitbook-plugin-page-footer-ex": "^0.1.2",
     "gitbook-plugin-search-pro": "^2.0.2",
-    "gitbook-plugin-styles-sass-fix": "^1.1.2"
+    "gitbook-plugin-styles-sass-fix": "^1.1.2",
+    "gitbook-plugin-table-cell-merge": "^1.0.8"
   }
 }
